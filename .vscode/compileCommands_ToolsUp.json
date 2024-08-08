@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Up1\\ToolsUp\\Source\\ToolsUp\\MovingPlatformTools.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Up1\\ToolsUp\\.vscode\\compileCommands_ToolsUp\\ToolsUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Up1\\ToolsUp\\Source\\ToolsUp\\MovingPlatformTools.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Up1\\ToolsUp\\.vscode\\compileCommands_ToolsUp\\ToolsUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Up1\\ToolsUp\\Source\\ToolsUp\\ToolsUp.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Up1\\ToolsUp\\.vscode\\compileCommands_ToolsUp\\ToolsUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Up1\\ToolsUp\\Source\\ToolsUp\\ToolsUp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Up1\\ToolsUp\\.vscode\\compileCommands_ToolsUp\\ToolsUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Up1\\ToolsUp\\Source\\ToolsUp\\ToolsUp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Up1\\ToolsUp\\.vscode\\compileCommands_ToolsUp\\ToolsUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
