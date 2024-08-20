@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToolsUp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\ToolsUp\Intermediate\Build\Win64\x64\ToolsUpEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\MovingbathY.gen.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\MovingPlatformTools.gen.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\ToolsUp.init.gen.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\MovingPlatformTools.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\ToolsUp.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\MovingbathY.cpp.obj"
+"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\Default.rc2.res"
+/OUT:"C:\ToolsUp\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolsUp\UnrealEditor-ToolsUp.lib"
