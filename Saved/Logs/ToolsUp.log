@@ -1572,3 +1572,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.08-11.38.11:638][946]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B365C1062-47CB-3F2A-A95C-1883A67643E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=70d124fb4d7a533989dcab9abb0c9bf1%7C45082d4b4b56457b8b8b9d05a96071ff%7Cd7e9dfc5-e760-4339-8332-d8e1e5320d16&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2024.10.08-11.38.11:680][946]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.10.08-11.38.11:687][946]LogPakFile: Destroying PakPlatformFile
+[2024.10.08-11.38.11:834][946]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.08-11.38.11:864][946]LogExit: Exiting.
+[2024.10.08-11.38.11:880][946]Log file closed, 10/08/24 20:38:11
