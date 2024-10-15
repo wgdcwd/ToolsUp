@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\ToolsUp\\Source\\ToolsUp\\ToolsUp.Build.cs",
-		"C:\\ToolsUp\\Source\\ToolsUp.Target.cs",
-		"C:\\ToolsUp\\Source\\ToolsUpEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.3"
-}
